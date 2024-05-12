@@ -62,21 +62,6 @@ Here are examples of some of the maps used to train the model.
 
 https://user-images.githubusercontent.com/44360315/113673665-e8edd300-96d6-11eb-8fbe-d09e078fbfbe.mp4
 
-
-
-## Arduino connection.
-
-We have connected our simulation with Arduino.<br/>
-
-### Arduino1
-<img src="arduino_images/arduino1.jpg" width="600" height="400"/>
-
-### Arduino2
-<img src="arduino_images/arduino2.jpg" width="600" height="400"/>
-
-### Arduino3
-<img src="arduino_images/arduino3.jpg" width="600" height="400"/>
-
 ## How to train new Networks.
 
 First Download or clone the repository.<br/>
