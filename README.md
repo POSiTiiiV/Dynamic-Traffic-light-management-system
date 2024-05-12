@@ -131,11 +131,3 @@ You can use train.py to run a pre-trained model on GUI.
 
 This will open GUI which you can run to see how your model performs.
 To get accurate results set a value of -s the same for testing and training.
-
-### Extra: Running Ardunio
-Currently, Arduino works only for a single crossroad.<br/>
-More than one cross road will return an error.<br/>
-
-For running Arduino for testing use --ard.
-
-`python train.py -m model_name -s 500 --ard`
